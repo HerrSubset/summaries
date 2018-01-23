@@ -1,0 +1,8 @@
+helpFiles/
+*.pdf
+*.toc
+*.aux
+*.log
+*.out
+*.lof
+*.synctex.gz
